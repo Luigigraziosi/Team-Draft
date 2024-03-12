@@ -1,0 +1,12 @@
+Parte 
+Legge la lista e trova punto
+Legge i waypoint
+Calcola waypoint piu vicino e va
+Cerca ostacolo
+Scannerizza 
+Trova
+Dello stesso punto trova altro waypoint più vicino
+Va
+Cerca ostacolo 
+Scannerizza
+Trova
